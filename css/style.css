@@ -17,3 +17,31 @@ a, a:hover {
 .koffiebruin{
   color: #ca8446;
 }
+
+.btn-koffiebruin:hover{
+  background-color: #ca8446;
+  border-color: #ca8446;
+}
+
+.btn-koffiebruin{
+  background-color: #ca8446;
+  border-color: #ca8446;
+}
+
+.justify { 
+  text-align: justify; 
+}
+
+.accordion-button:not(.collapsed) {
+  color: #ca8446;
+  background-color: #fff;
+}
+
+.img-small {
+  padding-top: 0px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 0px;
+  height: 100px;
+  width: 100px;
+}
